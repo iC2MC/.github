@@ -1,6 +1,6 @@
 # iC2MC repository
 
-![logo](iC2MC-logo.png)
+[![logo](iC2MC-logo.png)](https://ic2mc.cnrs.fr)
 
 C2MC is a joint laboratory created in 2014 based on two analytical groups from the universities of Pau and Rouen and the Analytical Platforms of TotalEnergies.
 
